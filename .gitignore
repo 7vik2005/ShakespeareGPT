@@ -1,0 +1,64 @@
+# Python
+
+**pycache**/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.env/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Generated Artifacts
+
+artifacts/
+
+# Training Checkpoints
+
+checkpoints/
+
+# TensorBoard Logs
+
+logs/
+
+# Generated Outputs
+
+outputs/
+
+# Hyperparameter Search Results
+
+tuner_results/
+
+# OS Files
+
+.DS_Store
+Thumbs.db
+
+# IDE
+
+.vscode/
+.idea/
+
+# Temporary Files
+
+*.tmp
+*.temp
+
+# Model Files
+
+*.h5
+*.keras
+
+# Testing
+
+.pytest_cache/
+
+# Coverage
+
+.coverage
+htmlcov/
